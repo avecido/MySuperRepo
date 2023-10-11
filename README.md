@@ -1,2 +1,1 @@
-My firts readme
-Updated
+Readme updated
